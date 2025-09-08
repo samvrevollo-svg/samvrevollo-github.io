@@ -21,8 +21,7 @@
     <li>Music</li>
   </ul>
 
-  <h2>Links</h2>
-  <p>Visit <a href="https://www.google.com">Google</a>.</p>
+
 
 </body>
 </html>
